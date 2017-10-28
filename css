@@ -1,0 +1,26 @@
+// adjusting menu header
+#site-navigation {
+  float: left;
+  margin: 0 auto;
+  margin-top: 50px;
+  margin-left: 220px;
+  }
+
+.main-navigation-bar.sticky-bar.sticky-menu {
+  
+  height: 137px;
+  
+}
+
+// adjusting header header menu font size
+.menu-menu-1-container a:link{
+  
+  font-size: 20px;
+  
+}
+
+.site-branding {
+  
+  height: 0px;
+  
+}
